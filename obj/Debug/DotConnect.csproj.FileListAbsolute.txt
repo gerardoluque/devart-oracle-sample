@@ -1,0 +1,15 @@
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\DotConnect.exe.config
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\DotConnect.exe
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\DotConnect.pdb
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\EntityFramework.dll
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\EntityFramework.xml
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\obj\Debug\DotConnect.exe
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\obj\Debug\DotConnect.pdb
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\Devart.Data.Oracle.dll
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\Devart.Data.Oracle.Entity.EF6.dll
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\Devart.Data.dll
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\Devart.Data.Oracle.xml
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\Devart.Data.Oracle.Entity.EF6.xml
+C:\Proyectos\ConsoleApps\dotConnect\DotConnect\bin\Debug\Devart.Data.xml
